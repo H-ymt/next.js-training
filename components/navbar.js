@@ -10,7 +10,10 @@ export default function Navbar() {
               <li>Home</li>
             </Link>
             <Link href="./textgradient">
-              <li>Text-gradient</li>
+              <li>TextGradient</li>
+            </Link>
+            <Link href="./scrolltrigger">
+              <li>ScrollTrigger</li>
             </Link>
           </ul>
         </nav>
