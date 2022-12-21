@@ -16,7 +16,7 @@ export default function Text() {
         ref={div}
         style={{
           display: "inline-block",
-          webkitBackgroundClip: "text",
+          WebkitBackgroundClip: "text",
           WebkitTextFillColor: "transparent",
         }}
       >
